@@ -31,4 +31,4 @@ container.appendChild(resetDiv);
 const buttonReset = document.createElement("button");
 buttonReset.className = "button-reset";
 resetDiv.appendChild(buttonReset);
-buttonReset.innerHTML = "-";
+buttonReset.innerHTML = "reset";
