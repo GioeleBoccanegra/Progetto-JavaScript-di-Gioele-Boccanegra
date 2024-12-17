@@ -1,17 +1,39 @@
+body {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+
+
 .container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 30vw;
+  height: 30vw;
+  background-color: pink;
 }
+
 
 .counter-container {
   height: 20px;
   width: 20px;
   background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.buttons-container {
+.counter-container p {}
+
+.reset-container {
+  display: flex;
+  justify-content: center;
+  gap: 20%;
+  align-items: center;
+
   background-color: blue;
   height: 20px;
   width: 100px;
