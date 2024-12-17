@@ -32,3 +32,30 @@ const buttonReset = document.createElement("button");
 buttonReset.className = "button-reset";
 resetDiv.appendChild(buttonReset);
 buttonReset.innerHTML = "reset";
+
+
+function aumenta() {
+  counter.textContent = parseInt(counter.textContent) + 1;
+}
+
+function diminuisci() {
+  counter.textContent = parseInt(counter.textContent) - 1;
+}
+
+
+function resetta() {
+  counter.textContent = 0;
+}
+
+buttonPiu.addEventListener("click", function () {
+  aumenta()
+})
+
+
+buttonMeno.addEventListener("click", function () {
+  diminuisci()
+})
+
+buttonReset.addEventListener("click", function () {
+  resetta()
+})
