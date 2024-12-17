@@ -35,8 +35,9 @@ Questo progetto consiste in un contatore interattivo che permette all'utente di 
    ```bash
    git clone https://github.com/GioeleBoccanegra/Progetto-JavaScript-di-Gioele-Boccanegra.git
 2. Vai nella cartella del progetto
+3. ```bash
       cd Progetto-JavaScript-di-Gioele-Boccanegra
-3. Apri file index.html nel tuo browser per visualizzare il progetto.
+4. Apri file index.html nel tuo browser per visualizzare il progetto.
 
 ## Utilizzo
 
