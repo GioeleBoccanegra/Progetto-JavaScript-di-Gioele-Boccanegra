@@ -1,64 +1,63 @@
-# Contatore JavaScript
+# JavaScript Counter
 
-Questo progetto consiste in un contatore interattivo realizzato in **JavaScript**, con funzionalità per aumentare, diminuire e resettare il valore. Il progetto è costruito con un'interfaccia utente semplice e chiara, che si adatta a diverse dimensioni di schermo grazie all'uso di **HTML**, **CSS** e **JavaScript**. Il progetto è accessibile online tramite il link qui sotto:
+This project is an interactive counter made in **JavaScript**, with functionality to increase, decrease and reset the value. The project is built with a simple and clear user interface, which adapts to different screen sizes thanks to the use of **HTML**, **CSS** and **JavaScript**. The project is accessible online via the link below:
 
-[Contatore JavaScript](https://contatorejsgioeleboccanegra.netlify.app/)
+[JavaScript Counter](https://contatorejsgioeleboccanegra.netlify.app/)
 
-## Indice
+## Index
 
-1. [Descrizione](#descrizione)
-2. [Tecnologie utilizzate](#tecnologie-utilizzate)
-3. [Installazione](#installazione)
-4. [Utilizzo](#utilizzo)
-5. [Contribuire](#contribuire)
-6. [Licenza](#licenza)
-7. [Contatti](#contatti)
+1. [Description](#description)
+2. [Technologies used](#technologies-used)
+3. [Installation](#installation)
+4. [Use](#use)
+5. [Contribute](#contribute)
+6. [License](#license)
+7. [Contacts](#contacts)
 
-## Descrizione
+## Description
 
-Questo progetto consiste in un contatore interattivo che permette all'utente di incrementare, decrementare o resettare il valore visualizzato. L'interfaccia è realizzata in modo che possa essere utilizzata comodamente su diverse dimensioni di schermo, grazie a media queries nel CSS.
+This project consists of an interactive counter that allows the user to increase, decrease or reset the displayed value. The interface is designed to be used comfortably on different screen sizes, thanks to media queries in the CSS.
 
-- **Funzionalità**: tre pulsanti per aumentare, diminuire o resettare il valore.
-- **Interfaccia responsive**: si adatta a diverse dimensioni dello schermo.
-- **Tecnologie**: HTML, CSS e JavaScript.
+- **Features**: three buttons to increase, decrease or reset the value.
+- **Responsive interface**: adapts to different screen sizes.
+- **Technologies**: HTML, CSS and JavaScript.
 
-## Tecnologie utilizzate
+## Technologies used
 
-- **HTML5**: per la struttura della pagina.
-- **CSS3**: per la progettazione dell'interfaccia e la responsività.
-- **JavaScript**: per la logica del contatore e l'interazione con l'utente.
-- **Flexbox**: per il layout responsivo e l'allineamento degli elementi.
+- **HTML5**: for page structure.
+- **CSS3**: for interface design and responsiveness.
+- **JavaScript**: for counter logic and user interaction.
+- **Flexbox**: for responsive layout and element alignment.
 
-## Installazione
+## Installation
 
-1. Clona il repository:
-   ```bash
-   git clone https://github.com/GioeleBoccanegra/Progetto-JavaScript-di-Gioele-Boccanegra.git
-2. Vai nella cartella del progetto
-   ```bash
-      cd Progetto-JavaScript-di-Gioele-Boccanegra
-4. Apri file index.html nel tuo browser per visualizzare il progetto.
+1. Clone the repository:
+```bash
+git clone https://github.com/GioeleBoccanegra/Progetto-JavaScript-di-Gioele-Boccanegra.git
+2. Go to the project folder
+```bash
+cd Progetto-JavaScript-di-Gioele-Boccanegra
+4. Open index.html file in your browser to view the project.
 
-## Utilizzo
+## Usage
 
-Dopo aver aperto il progetto nel browser, vedrai il contatore con tre pulsanti:
+After opening the project in the browser, you will see the counter with three buttons:
 
-1. + per aumentare il valore.
-2. - per diminuire il valore.
-3. Reset per riportare il valore a zero.
+1. + to increase the value.
+2. - to decrease the value.
+3. Reset to reset the value to zero.
 
-## Contribuire
-Se desideri contribuire al progetto, segui questi passi:
+## Contribute
+If you want to contribute to the project, follow these steps:
 
-1. Fai un fork del repository.
-2. Crea un branch per la tua feature (git checkout -b feature/nuova-feature).
-3. Aggiungi le modifiche e fai il commit (git commit -am 'Aggiungi una nuova feature').
-4. Fai il push del branch (git push origin feature/nuova-feature).
-5. Crea una pull request per discutere le modifiche.
+1. Fork the repository.
+2. Create a branch for your feature (git checkout -b feature/new-feature).
+3. Add your changes and commit (git commit -am 'Add a new feature').
+4. Push the branch (git push origin feature/new-feature).
+5. Create a pull request to discuss the changes.
 
-6. ## Licenza
-   Tutti i diritti riservati.
+6. ## License
+All rights reserved.
 
-
-8. ## Contatti
-   Puoi contattarmi scrivendomi qui : https://gioeleboccanegra.github.io/Progetto-HTML-e-CSS-di-Gioele-Boccanegra/contattami/
+8. ## Contact
+You can contact me here: https://gioeleboccanegra.github.io/Gioele-Boccanegra-HTML-and-CSS-Project/contattami/
