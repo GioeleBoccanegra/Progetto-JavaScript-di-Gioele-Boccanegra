@@ -34,9 +34,11 @@ This project consists of an interactive counter that allows the user to increase
 1. Clone the repository:
 ```bash
 git clone https://github.com/GioeleBoccanegra/Progetto-JavaScript-di-Gioele-Boccanegra.git
+```
 2. Go to the project folder
 ```bash
 cd Progetto-JavaScript-di-Gioele-Boccanegra
+```
 3. Open index.html file in your browser to view the project.
 
 ## Usage
