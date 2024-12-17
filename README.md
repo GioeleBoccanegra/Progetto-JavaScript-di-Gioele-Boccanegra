@@ -58,8 +58,7 @@ If you want to contribute to the project, follow these steps:
 4. Push the branch (git push origin feature/new-feature).
 5. Create a pull request to discuss the changes.
 
-6. ## License
+## License
 All rights reserved.
-
-8. ## Contact
+## Contact
 You can contact me here: https://gioeleboccanegra.github.io/Gioele-Boccanegra-HTML-and-CSS-Project/contattami/
