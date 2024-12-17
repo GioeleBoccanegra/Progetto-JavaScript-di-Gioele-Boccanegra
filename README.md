@@ -30,7 +30,7 @@ Questo progetto consiste in un contatore interattivo che consente all'utente di 
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo-utente/contatore-javascript.git
+   git clone https://github.com/tuo-utente/contatore-javascript.git](https://github.com/GioeleBoccanegra/Progetto-JavaScript-di-Gioele-Boccanegra
 2. Vai nella cartella del progetto:
 cd contatore-javascript
 3. Non è necessaria alcuna installazione specifica, basta aprire il file index.html nel tuo browser per visualizzare il progetto.
