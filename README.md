@@ -45,3 +45,9 @@ Se desideri contribuire al progetto, puoi seguire questi passi:
 5. Crea una pull request per discutere le modifiche.
 
 6. ## Licenza
+
+
+## Contattami
+Se hai domande o desideri contattarmi, puoi farlo tramite i seguenti canali:
+
+Link al mio form: https://gioeleboccanegra.github.io/Progetto-HTML-e-CSS-di-Gioele-Boccanegra/contattami/
