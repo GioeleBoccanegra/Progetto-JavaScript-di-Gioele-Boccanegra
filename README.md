@@ -37,7 +37,7 @@ git clone https://github.com/GioeleBoccanegra/Progetto-JavaScript-di-Gioele-Bocc
 2. Go to the project folder
 ```bash
 cd Progetto-JavaScript-di-Gioele-Boccanegra
-4. Open index.html file in your browser to view the project.
+3. Open index.html file in your browser to view the project.
 
 ## Usage
 
